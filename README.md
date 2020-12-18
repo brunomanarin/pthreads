@@ -74,7 +74,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-You'll need to be on a working Linux operating system or have the pthreads C class properly installed on Windows ( I suggest using [POSIX Threads fo Win32](https://sourceware.org/pthreads-win32/)). 
+You'll need to be on a working Linux operating system or have the pthreads C class properly installed on Windows ( I suggest using [POSIX Threads for Win32](https://sourceware.org/pthreads-win32/)). 
 
 ### Installation
 
@@ -102,7 +102,6 @@ You'll need to be on a working Linux operating system or have the pthreads C cla
 ## Acknowledgements
 
 Thanks to:
-
-* Professor Odorico Machado Mendizabal that lead that Operating Systems course
-
-Also, the motivation and description parts of the Readme are from the instructions he gave us to make the assignment, just translated from Portuguese to English.
+Professor Odorico Machado Mendizabal that lead the course.
+Ps.:
+The motivation and description parts of the Readme are from the instructions he gave us to make the assignment, just translated from Portuguese to English.
